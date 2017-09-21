@@ -1,0 +1,2 @@
+# ares
+Simple Serverless Deployments
