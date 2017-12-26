@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 #
-# Using tar utility to Zip a Repository present on a remote url
+# Using tar utility to Zip a Repository present on a remote url and upload it to another path
 #---------------------------------------------------------------------------------------
 # Example: $SCRIPT -p res -r pkgs/sda/asd
 
