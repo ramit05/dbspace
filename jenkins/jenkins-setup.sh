@@ -72,3 +72,5 @@ pip3.6 install mock --user
 pip3.6 install moto --user
 pip3.6 install pytest-json --user
 pip3.6 install coverage --user
+pip3.6 install chalice --user
+pip3.6 install pymysql --user
